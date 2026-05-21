@@ -1,0 +1,6 @@
+{
+  "name": "Educalize - Educação Física Escolar",
+  "description": "Plataforma premium com materiais completos e prontos de Educação Física Escolar para professores, incluindo planos de aula, jogos e certificado de 80h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
